@@ -56,6 +56,11 @@ h1 {
   line-height: 44px;
   text-align: center;
 }
+h2{ 
+  font-size: 1.57129444em; /* 28.833px / 18px = 1.57129444em */
+  line-height: 44px;
+  text-align: center;
+}   
 p {
   display: none;
   font-size: 11.125px;
