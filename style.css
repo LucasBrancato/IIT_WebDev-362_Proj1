@@ -85,30 +85,30 @@ input {
 }
 input[type="tel"] {
   margin-bottom: 11px;
-  background-color: rgba(67,176,183,1.0);
+  background-color: #6a011a;
 }
 input[type="tel"]:focus {
   background-color: #EEE;
 }
 input[type="text"] {
   margin-bottom: 11px;
-  background-color: rgba(67,176,183,1.0);
+  background-color: #6a011a;
 }
 input[type="text"]:focus {
   background-color: #EEE;
 }
 input[type="email"] {
   margin-bottom: 11px;
-  background-color: rgba(67,176,183,1.0);
+  background-color: #6a011a;
 }
 input[type="email"]:focus {
   background-color: #EEE;
 }
 input[type="submit"] {
-  background-color: rgba(67,176,183,8.0);
+  background-color: #6a011a;
 }
 input[type="submit"]:disabled {
-  background-color: rgba(67,176,183,0.3);
+  background-color: #6a011a;
 }
 /*End of Forms*/
 
