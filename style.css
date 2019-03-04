@@ -31,7 +31,7 @@ html {
   color: white;
 }
 .navbar ul{
-  background-color: #a6a6a6;
+  background-color: #6a011a;
   margin: auto;
   padding: 10px;
   overflow: hidden;
@@ -85,30 +85,30 @@ input {
 }
 input[type="tel"] {
   margin-bottom: 11px;
-  background-color: #6a011a;
+  background-color: #a6a6a6;
 }
 input[type="tel"]:focus {
-  background-color: #6a011a;
+  background-color: #a6a6a6;
 }
 input[type="text"] {
   margin-bottom: 11px;
-  background-color: #6a011a;
+  background-color: #a6a6a6;
 }
 input[type="text"]:focus {
-  background-color: #EEE;
+  background-color: #a6a6a6;
 }
 input[type="email"] {
   margin-bottom: 11px;
-  background-color: #6a011a;
+  background-color: #a6a6a6;
 }
 input[type="email"]:focus {
-  background-color: #EEE;
+  background-color: #a6a6a6;
 }
 input[type="submit"] {
-  background-color: #6a011a;
+  background-color: #a6a6a6;
 }
 input[type="submit"]:disabled {
-  background-color: #6a011a;
+  background-color: #a6a6a6;
 }
 /*End of Forms*/
 
